@@ -1,0 +1,2 @@
+Training Accuracy BT: 0.79
+Testing Accuracy BT: 0.74

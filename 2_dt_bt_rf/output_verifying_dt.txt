@@ -1,0 +1,2 @@
+Training Accuracy DT: 0.78
+Testing Accuracy DT: 0.73

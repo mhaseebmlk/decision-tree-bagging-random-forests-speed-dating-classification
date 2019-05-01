@@ -1,0 +1,2 @@
+Training Accuracy RF: 0.77
+Testing Accuracy RF: 0.73

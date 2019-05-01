@@ -1,0 +1,16 @@
+Name: Mohammad Haseeb [mhaseeb@purdue.edu]
+
+- Python Verison:	3.6.5
+- numpy version: 	1.13.3
+- pandas version: 	0.22.0
+
+Runtime Notes:
+- DT takes ~25 seconds to execute on cs.data.purdue.edu
+- BT takes ~11 minutes to execute on cs.data.purdue.edu
+- DF takes ~3 minutes to execute on cs.data.purdue.edu
+- K-Fold Cross Validation for Section 3 takes ~3 hours 20 minutes to execute 
+on cs.data.purdue.edu
+- K-Fold Cross Validation for Section 4 takes ~2 hours 10 minutes to execute 
+on cs.data.purdue.edu
+- K-Fold Cross Validation for Section 5 takes ~4 hours 50 minutes to execute 
+on cs.data.purdue.edu
